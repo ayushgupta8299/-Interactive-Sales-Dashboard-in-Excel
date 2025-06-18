@@ -30,4 +30,4 @@ Conditional Formatting: Provides visual cues and highlights for important data p
 Various Chart Types: Creation and strategic use of diverse charts (Column, Pie, Two-Axis, Tree Map, Geographical Map) for effective data visualization and complex comparisons.
 Shape Formatting & Hyperlinks: Used for creating professional-looking navigation buttons, headings, and logos, enhancing the user experience and overall aesthetics.
 
-https://github.com/ayushgupta8299/-Interactive-Sales-Dashboard-in-Excel/blob/main/image.png
+![Image_Alt](https://github.com/ayushgupta8299/-Interactive-Sales-Dashboard-in-Excel/blob/main/image.png)
