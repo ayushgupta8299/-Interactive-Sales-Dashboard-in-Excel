@@ -29,3 +29,5 @@ Slicers: Implemented for interactive filtering and dynamic data analysis across 
 Conditional Formatting: Provides visual cues and highlights for important data points, such as reorder status, enhancing readability and actionable insights.
 Various Chart Types: Creation and strategic use of diverse charts (Column, Pie, Two-Axis, Tree Map, Geographical Map) for effective data visualization and complex comparisons.
 Shape Formatting & Hyperlinks: Used for creating professional-looking navigation buttons, headings, and logos, enhancing the user experience and overall aesthetics.
+
+https://github.com/ayushgupta8299/-Interactive-Sales-Dashboard-in-Excel/blob/main/image.png
